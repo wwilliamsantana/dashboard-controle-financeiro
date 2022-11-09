@@ -4,7 +4,7 @@
       "id": 1,
       "description": "Desenvolvimento de site",
       "type": "income",
-      "price": "14000",
+      "price": 14000,
       "category": "Venda",
       "createdAt": "2022-11-09T19:21:55.055Z"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "description": "Hambúrguer",
       "type": "outcome",
-      "price": "50",
+      "price": 50,
       "category": "Alimentação",
       "createdAt": "2022-11-09T18:21:55.055Z"
     }
