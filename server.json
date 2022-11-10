@@ -23,6 +23,14 @@
       "price": 1980,
       "category": "Educação",
       "createdAt": "2022-11-09T18:11:55.055Z"
+    },
+    {
+      "category": "Alimentação",
+      "description": "Pastel",
+      "price": 20,
+      "type": "outcome",
+      "createdAt": "2022-11-10T18:48:08.126Z",
+      "id": 4
     }
   ]
 }
